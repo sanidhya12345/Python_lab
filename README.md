@@ -2,8 +2,8 @@
 ```
 Name:Sanidhya Varshney
 Program:Btech CS
-Section=O
-Roll No.=22
-Faculty=Mr.Amir Khan
-CPI=8.1
+Section:O
+Roll No.:22
+Faculty:Mr.Amir Khan
+CPI:8.1
 ```
