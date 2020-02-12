@@ -1,8 +1,7 @@
-a=[]
-while 1:
-   item=input("enter the item")
-   a.append(item)
-   n=input("Do you wanr to continue Y/N")
-   if n.lower=="n":
-    break
-print(a)
+l=list((input().split())
+c=list()
+for i in l:
+       if i not in c:
+             c.append(i)
+for i in range(len(b)):
+           print(c[i]+" ",end="")
