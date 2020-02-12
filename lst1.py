@@ -1,8 +1,7 @@
-l=list(input().split())
-c=[]
-for i in l:
-       if i not in c:
-             c.append(i)
-for i in range(len(c)-1):
-           print(c[i],end="*")
-print(c[len(c)-1])
+l1=[1,3,4,2]
+l2=[1,4,9,5]
+l3=[i for i in l1 if i not in  l2]
+l4=[i for i in l2 if i not in  l1]
+c=l3+l4
+print(c)
+
